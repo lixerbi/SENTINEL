@@ -1,0 +1,10 @@
+SENTINEL - Single Object Tracking Results
+Date: 2026-02-22 21:31
+============================================================
+
+Number of samples: 39
+Mean measurement error: 7.08 m
+Mean Kalman filter error: 2.99 m
+Error reduction: 57.7%
+Standard deviation (meas): 3.71 m
+Standard deviation (KF): 1.48 m
